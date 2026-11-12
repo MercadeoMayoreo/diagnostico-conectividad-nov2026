@@ -28,7 +28,7 @@ import { motion, AnimatePresence } from "motion/react";
 // ============================================================================
 export const GOOGLE_SHEETS_CONFIG = {
   // EJEMPLO: Resplazar el vacío "" por su enlace de Sheets. Ej: "https://docs.google.com/spreadsheets/d/1DRGPOx6b5oT3bhF-G4-IinBbeLvBBoIDJVmtyQT7QAo/edit?usp=sharing"
-  SPREADSHEET_LINK_OR_ID: "1DRGPOx6b5oT3bhF-G4-IinBbeLvBBoIDJVmtyQT7QAo", 
+  SPREADSHEET_LINK_OR_ID: "https://docs.google.com/spreadsheets/d/1PaptTkm-IxNzE4luzkBuUvFcfvFtPRTW7Mrzi9ZZdwQ/edit?usp=sharing", 
 
   // Escriba el nombre exacto de la pestaña donde están las respuestas de su formulario
   // Ej: "Respuestas de formulario 1". Si se deja vacío "", se lee la primera pestaña predeterminada.
