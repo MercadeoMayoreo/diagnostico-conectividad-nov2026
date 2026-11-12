@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard de Conectividad",
+  "description": "Dashboard analítico interactivo para encuestas de conectividad a internet en sedes corporativas alimentado desde Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
